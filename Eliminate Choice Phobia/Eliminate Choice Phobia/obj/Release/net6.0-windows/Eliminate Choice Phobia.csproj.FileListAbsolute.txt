@@ -1,0 +1,17 @@
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Release\net6.0-windows\Eliminate Choice Phobia.exe
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Release\net6.0-windows\Eliminate Choice Phobia.deps.json
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Release\net6.0-windows\Eliminate Choice Phobia.runtimeconfig.json
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Release\net6.0-windows\Eliminate Choice Phobia.dll
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Release\net6.0-windows\Eliminate Choice Phobia.pdb
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.csproj.AssemblyReference.cache
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate_Choice_Phobia.Form1.resources
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.csproj.GenerateResource.cache
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.GeneratedMSBuildEditorConfig.editorconfig
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.AssemblyInfoInputs.cache
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.AssemblyInfo.cs
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.csproj.CoreCompileInputs.cache
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.dll
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\refint\Eliminate Choice Phobia.dll
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.pdb
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\Eliminate Choice Phobia.genruntimeconfig.cache
+F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Release\net6.0-windows\ref\Eliminate Choice Phobia.dll

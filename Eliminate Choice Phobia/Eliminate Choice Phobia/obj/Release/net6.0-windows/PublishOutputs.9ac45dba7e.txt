@@ -1,0 +1,5 @@
+F:\179\projects\写的应用\Eliminate Choice Phobia.exe
+F:\179\projects\写的应用\Eliminate Choice Phobia.dll
+F:\179\projects\写的应用\Eliminate Choice Phobia.deps.json
+F:\179\projects\写的应用\Eliminate Choice Phobia.runtimeconfig.json
+F:\179\projects\写的应用\Eliminate Choice Phobia.pdb
