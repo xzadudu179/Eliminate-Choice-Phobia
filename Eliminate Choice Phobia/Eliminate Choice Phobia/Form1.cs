@@ -87,6 +87,7 @@ namespace Eliminate_Choice_Phobia
                 }
             }
             clearButton.Enabled = true;
+            generate.Enabled = true;
         }
 
         /// <summary>
