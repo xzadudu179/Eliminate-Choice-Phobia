@@ -59,6 +59,7 @@ namespace Eliminate_Choice_Phobia
                 }
                 byte[] buffer = Encoding.UTF8.GetBytes(texts);
                 fileWrite.Write(buffer, 0, buffer.Length);
+                clearButton.Enabled = true;
             }
         }
 

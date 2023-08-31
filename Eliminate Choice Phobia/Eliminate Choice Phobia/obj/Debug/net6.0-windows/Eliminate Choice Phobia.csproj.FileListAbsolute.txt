@@ -15,3 +15,20 @@ F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windo
 F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.pdb
 F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.genruntimeconfig.cache
 F:\179\C#\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\ref\Eliminate Choice Phobia.dll
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Debug\net6.0-windows\Eliminate Choice Phobia.exe
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Debug\net6.0-windows\Eliminate Choice Phobia.deps.json
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Debug\net6.0-windows\Eliminate Choice Phobia.runtimeconfig.json
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Debug\net6.0-windows\Eliminate Choice Phobia.dll
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\bin\Debug\net6.0-windows\Eliminate Choice Phobia.pdb
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.csproj.AssemblyReference.cache
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate_Choice_Phobia.Form1.resources
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.csproj.GenerateResource.cache
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.AssemblyInfoInputs.cache
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.AssemblyInfo.cs
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.csproj.CoreCompileInputs.cache
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.dll
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\refint\Eliminate Choice Phobia.dll
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.pdb
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\Eliminate Choice Phobia.genruntimeconfig.cache
+C:\Users\XZA179\Source\Repos\Eliminate-Choice-Phobia\Eliminate Choice Phobia\Eliminate Choice Phobia\obj\Debug\net6.0-windows\ref\Eliminate Choice Phobia.dll
