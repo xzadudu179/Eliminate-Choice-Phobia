@@ -1,4 +1,5 @@
 using System.IO;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Windows.Forms;
 
@@ -146,6 +147,8 @@ namespace Eliminate_Choice_Phobia
         {
             if (e.KeyCode == Keys.Enter)
             {
+                e.Handled = true;
+                e.SuppressKeyPress = true;
                 //Ìí¼Ó
                 Add();
             }
@@ -156,6 +159,8 @@ namespace Eliminate_Choice_Phobia
         {
             if (e.KeyCode == Keys.Delete)
             {
+                e.Handled = true;
+                e.SuppressKeyPress = true;
                 Delete();
             }
         }
