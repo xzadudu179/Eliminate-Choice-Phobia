@@ -75,6 +75,7 @@ namespace Eliminate_Choice_Phobia
             openFileDialog.Title = "选择待办事项列表";
             openFileDialog.ShowDialog();
             string path = openFileDialog.FileName;
+            if (path == "") return;
             //读取
             using (StreamReader sr = new StreamReader(path, Encoding.UTF8))
             {
