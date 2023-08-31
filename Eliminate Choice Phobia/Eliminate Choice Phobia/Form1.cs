@@ -97,6 +97,11 @@ namespace Eliminate_Choice_Phobia
         /// <param name="e"></param>
         private void addButton_Click(object sender, EventArgs e)
         {
+            Add();
+        }
+
+        private void Add()
+        {
             if (addToListText.Text == null || addToListText.Text == "") return;
             ToDoList.Items.Add(addToListText.Text);
             generate.Enabled = true;
@@ -104,7 +109,6 @@ namespace Eliminate_Choice_Phobia
             addToListText.Clear();
             clearButton.Enabled = true;
         }
-
         private void ToDoList_SelectedIndexChanged_1(object sender, EventArgs e)
         {
             deleteButton.Enabled = true;
@@ -114,17 +118,45 @@ namespace Eliminate_Choice_Phobia
         //删除按钮
         private void deleteButton_Click(object sender, EventArgs e)
         {
-            ToDoList.Items.RemoveAt(ToDoList.SelectedIndex);
-            if (ToDoList.Items.Count <= 0) generate.Enabled = false;
-            deleteButton.Enabled = false;
-            clearButton.Enabled = false;
+            Delete();
         }
 
+        private void Delete()
+        {
+            if(ToDoList.Items.Count <= 0 || ToDoList.SelectedItem == null) return;
+            ToDoList.Items.RemoveAt(ToDoList.SelectedIndex);
+            if (ToDoList.Items.Count <= 0)
+            {
+                clearButton.Enabled = false;
+                generate.Enabled = false;
+            }          
+            deleteButton.Enabled = false;
+            
+        }
         //清空按钮
         private void button1_Click(object sender, EventArgs e)
         {
             ToDoList.Items.Clear();
             clearButton.Enabled = false;
+        }
+
+        //按下enter(添加项)
+        private void addToListText_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                //添加
+                Add();
+            }
+        }
+
+        //按下Delete(删除项)
+        private void ToListText_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Delete)
+            {
+                Delete();
+            }
         }
     }
 }

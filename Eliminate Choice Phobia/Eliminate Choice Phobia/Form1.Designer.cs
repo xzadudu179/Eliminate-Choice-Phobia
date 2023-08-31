@@ -35,12 +35,12 @@
             addButton = new Button();
             generate = new Button();
             addToListText = new TextBox();
-            whatYoureGonnaDo = new Label();
             outPutLabel = new Label();
             menuStrip1 = new MenuStrip();
             FileToolStripMenuItem = new ToolStripMenuItem();
             SaveToolStripMenuItem1 = new ToolStripMenuItem();
             LoadToolStripMenuItem = new ToolStripMenuItem();
+            textBox1 = new TextBox();
             panel1.SuspendLayout();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -103,6 +103,7 @@
             ToDoList.Size = new Size(166, 223);
             ToDoList.TabIndex = 11;
             ToDoList.SelectedIndexChanged += ToDoList_SelectedIndexChanged_1;
+            ToDoList.KeyDown += ToListText_KeyDown;
             // 
             // addButton
             // 
@@ -144,23 +145,13 @@
             addToListText.Name = "addToListText";
             addToListText.Size = new Size(166, 24);
             addToListText.TabIndex = 9;
-            // 
-            // whatYoureGonnaDo
-            // 
-            whatYoureGonnaDo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-            whatYoureGonnaDo.AutoSize = true;
-            whatYoureGonnaDo.Font = new Font("等线", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            whatYoureGonnaDo.Location = new Point(293, 33);
-            whatYoureGonnaDo.Name = "whatYoureGonnaDo";
-            whatYoureGonnaDo.Size = new Size(168, 17);
-            whatYoureGonnaDo.TabIndex = 5;
-            whatYoureGonnaDo.Text = "你现在要做的事情是：";
+            addToListText.KeyDown += addToListText_KeyDown;
             // 
             // outPutLabel
             // 
             outPutLabel.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             outPutLabel.Font = new Font("等线", 15F, FontStyle.Bold, GraphicsUnit.Point);
-            outPutLabel.Location = new Point(299, 98);
+            outPutLabel.Location = new Point(299, 107);
             outPutLabel.Name = "outPutLabel";
             outPutLabel.Size = new Size(214, 89);
             outPutLabel.TabIndex = 6;
@@ -203,14 +194,25 @@
             LoadToolStripMenuItem.Text = "加载";
             LoadToolStripMenuItem.Click += LoadToolStripMenuItem_Click;
             // 
+            // textBox1
+            // 
+            textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Font = new Font("等线", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            textBox1.Location = new Point(299, 36);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(214, 63);
+            textBox1.TabIndex = 8;
+            textBox1.Text = "你现在要做的事情是:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ButtonHighlight;
             ClientSize = new Size(525, 301);
+            Controls.Add(textBox1);
             Controls.Add(outPutLabel);
-            Controls.Add(whatYoureGonnaDo);
             Controls.Add(panel1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
@@ -226,7 +228,6 @@
 
         #endregion
         private Panel panel1;
-        private Label whatYoureGonnaDo;
         private Label outPutLabel;
         private MenuStrip menuStrip1;
         private ToolStripMenuItem FileToolStripMenuItem;
@@ -238,5 +239,6 @@
         private ListBox ToDoList;
         private Button deleteButton;
         private Button clearButton;
+        private TextBox textBox1;
     }
 }
