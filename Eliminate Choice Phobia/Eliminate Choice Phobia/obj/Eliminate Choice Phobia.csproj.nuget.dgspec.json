@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\179\\C#\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj": {}
+    "C:\\Users\\XZA179\\Source\\Repos\\Eliminate-Choice-Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj": {}
   },
   "projects": {
-    "F:\\179\\C#\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj": {
+    "C:\\Users\\XZA179\\Source\\Repos\\Eliminate-Choice-Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\179\\C#\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj",
+        "projectUniqueName": "C:\\Users\\XZA179\\Source\\Repos\\Eliminate-Choice-Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj",
         "projectName": "Eliminate Choice Phobia",
-        "projectPath": "F:\\179\\C#\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj",
+        "projectPath": "C:\\Users\\XZA179\\Source\\Repos\\Eliminate-Choice-Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia.csproj",
         "packagesPath": "C:\\Users\\XZA179\\.nuget\\packages\\",
-        "outputPath": "F:\\179\\C#\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\obj\\",
+        "outputPath": "C:\\Users\\XZA179\\Source\\Repos\\Eliminate-Choice-Phobia\\Eliminate Choice Phobia\\Eliminate Choice Phobia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\vstudiogongxiang\\NuGetPackages"

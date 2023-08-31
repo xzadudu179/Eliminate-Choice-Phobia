@@ -100,15 +100,16 @@ namespace Eliminate_Choice_Phobia
             generate.Enabled = true;
             //清空文本框
             addToListText.Clear();
+            clearButton.Enabled = true;
         }
 
         private void ToDoList_SelectedIndexChanged_1(object sender, EventArgs e)
         {
             deleteButton.Enabled = true;
-            clearButton.Enabled = true;
+            //clearButton.Enabled = true;
         }
 
-        //删除
+        //删除按钮
         private void deleteButton_Click(object sender, EventArgs e)
         {
             ToDoList.Items.RemoveAt(ToDoList.SelectedIndex);
@@ -117,6 +118,7 @@ namespace Eliminate_Choice_Phobia
             clearButton.Enabled = false;
         }
 
+        //清空按钮
         private void button1_Click(object sender, EventArgs e)
         {
             ToDoList.Items.Clear();
