@@ -86,7 +86,7 @@ namespace Eliminate_Choice_Phobia
                     line = sr.ReadLine() ?? "*null*\a";
                 }
             }
-            generate.Enabled = true;
+            clearButton.Enabled = true;
         }
 
         /// <summary>
