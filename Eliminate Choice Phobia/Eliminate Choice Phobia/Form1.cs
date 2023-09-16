@@ -140,6 +140,7 @@ namespace Eliminate_Choice_Phobia
         {
             ToDoList.Items.Clear();
             clearButton.Enabled = false;
+            generate.Enabled = false;
         }
 
         //按下enter(添加项)
